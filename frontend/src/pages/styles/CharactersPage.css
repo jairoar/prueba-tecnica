@@ -1,0 +1,11 @@
+.CharactersPage {
+  width: 100%;
+  padding: 2rem 0;
+}
+
+.CharactersPagination {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
